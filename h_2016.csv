@@ -1,0 +1,890 @@
+,player,team,pa,war
+0,Joey Votto,reds,677,5.0
+1,Billy Hamilton,reds,460,3.1
+2,Adam Duvall,reds,608,2.8
+3,Zack Cozart,reds,508,2.5
+4,Eugenio Suarez,reds,627,1.7
+5,Brandon Phillips,reds,584,0.9
+6,Tucker Barnhart,reds,420,0.9
+7,Jose Peraza,reds,256,0.7
+8,Scott Schebler,reds,282,0.6
+9,Jay Bruce,reds,402,0.5
+10,Steve Selsky,reds,54,0.4
+11,Hernan Iribarren,reds,45,0.1
+12,Ivan De Jesus,reds,243,0.1
+13,Michael Lorenzen,reds,5,0.1
+14,Tim Adleman,reds,23,0.1
+15,Tony Cingrani,reds,1,0.0
+16,Josh Smith,reds,11,0.0
+17,Jon Moscot,reds,7,0.0
+18,Jumbo Diaz,reds,1,0.0
+19,A.J. Morris,reds,1,0.0
+20,Homer Bailey,reds,11,0.0
+21,Alfredo Simon,reds,19,0.0
+22,Blake Wood,reds,2,0.0
+23,Tim Melville,reds,2,0.0
+24,Drew Hayes,reds,2,0.0
+25,Patrick Kivlehan,reds,5,0.0
+26,Brandon Finnegan,reds,61,-0.1
+27,Raisel Iglesias,reds,11,-0.1
+28,Daniel Wright,reds,6,-0.1
+29,Keyvius Sampson,reds,7,-0.1
+30,Neil Walker,mets,458,3.7
+31,Yoenis Cespedes,mets,543,3.2
+32,Asdrubal Cabrera,mets,568,3.0
+33,Curtis Granderson,mets,633,2.6
+34,Michael Conforto,mets,348,1.3
+35,Jose Reyes,mets,279,1.3
+36,Kelly Johnson,mets,201,1.3
+37,Juan Lagares,mets,160,0.9
+38,Noah Syndergaard,mets,67,0.8
+39,T.J. Rivera,mets,113,0.6
+40,Wilmer Flores,mets,335,0.5
+41,David Wright,mets,164,0.5
+42,Rene Rivera,mets,207,0.5
+43,Ty Kelly,mets,71,0.4
+44,Jay Bruce,mets,187,0.4
+45,Steven Matz,mets,45,0.2
+46,Justin Ruggiano,mets,22,0.2
+47,Brandon Nimmo,mets,80,0.2
+48,Matt Reynolds,mets,96,0.2
+49,Jacob deGrom,mets,50,0.1
+50,Seth Lugo,mets,18,0.1
+51,Travis d'Arnaud,mets,276,0.1
+52,Lucas Duda,mets,172,0.1
+53,Gavin Cecchini,mets,7,0.0
+54,Jon Niese,mets,1,0.0
+55,Jerry Blevins,mets,1,0.0
+56,Josh Smoker,mets,1,0.0
+57,Matt Harvey,mets,25,0.0
+58,Hansel Robles,mets,3,0.0
+59,Gabriel Ynoa,mets,3,0.0
+60,Nolan Arenado,rockies,696,5.2
+61,DJ LeMahieu,rockies,635,4.2
+62,Charlie Blackmon,rockies,641,3.9
+63,Trevor Story,rockies,415,2.8
+64,Carlos Gonzalez,rockies,632,1.9
+65,David Dahl,rockies,237,1.2
+66,Tony Wolters,rockies,230,0.9
+67,Tom Murphy,rockies,49,0.8
+68,Daniel Descalso,rockies,289,0.4
+69,Nick Hundley,rockies,317,0.3
+70,Jordan Patterson,rockies,19,0.2
+71,Mark Reynolds,rockies,441,0.1
+72,Tyler Chatwood,rockies,58,0.1
+73,Jorge de la Rosa,rockies,42,0.1
+74,Tyler Anderson,rockies,42,0.0
+75,Dustin Garneau,rockies,75,0.0
+76,Christian Bergman,rockies,3,0.0
+77,Chris Rusin,rockies,30,0.0
+78,Yohan Flande,rockies,1,0.0
+79,Justin Miller,rockies,1,0.0
+80,Raimel Tapia,rockies,41,0.0
+81,Gonzalez Germen,rockies,3,0.0
+82,Brandon Barnes,rockies,109,-0.1
+83,Jon Gray,rockies,55,-0.1
+84,Jordan Lyles,rockies,8,-0.1
+85,German Marquez,rockies,8,-0.1
+86,Jeff Hoffman,rockies,9,-0.1
+87,Pat Valaika,rockies,19,-0.2
+88,Eddie Butler,rockies,19,-0.2
+89,Ryan Raburn,rockies,256,-0.2
+90,Starling Marte,pirates,529,4.0
+91,Gregory Polanco,pirates,587,2.5
+92,Jung Ho Kang,pirates,370,2.2
+93,Sean Rodriguez,pirates,342,1.9
+94,David Freese,pirates,492,1.9
+95,Francisco Cervelli,pirates,393,1.7
+96,Josh Harrison,pirates,522,1.5
+97,Jordy Mercer,pirates,584,1.3
+98,Matt Joyce,pirates,293,1.3
+99,Adam Frazier,pirates,160,0.7
+100,Andrew McCutchen,pirates,675,0.7
+101,John Jaso,pirates,432,0.6
+102,Francisco Liriano,pirates,42,0.5
+103,Gerrit Cole,pirates,43,0.3
+104,Jacob Stallings,pirates,15,0.2
+105,Trevor Williams,pirates,3,0.1
+106,Steven Brault,pirates,9,0.1
+107,Chris Stewart,pirates,113,0.0
+108,Wilfredo Boscan,pirates,3,0.0
+109,Tony Watson,pirates,1,0.0
+110,Wade LeBlanc,pirates,1,0.0
+111,Jared Hughes,pirates,1,0.0
+112,Drew Hutchison,pirates,1,0.0
+113,Tyler Glasnow,pirates,7,0.0
+114,Eric Fryer,pirates,92,0.0
+115,Juan Nicasio,pirates,20,0.0
+116,Arquimedes Caminero,pirates,2,0.0
+117,Kyle Lobstein,pirates,2,0.0
+118,Rob Scahill,pirates,2,0.0
+119,Pedro Florimon,pirates,25,0.0
+120,Robinson Cano,mariners,715,6.0
+121,Kyle Seager,mariners,676,5.5
+122,Nelson Cruz,mariners,667,4.2
+123,Leonys Martin,mariners,576,2.2
+124,Mike Zunino,mariners,192,1.2
+125,Nori Aoki,mariners,467,1.2
+126,Chris Iannetta,mariners,338,0.9
+127,Franklin Gutierrez,mariners,283,0.6
+128,Jesus Sucre,mariners,29,0.5
+129,Seth Smith,mariners,438,0.5
+130,Guillermo Heredia,mariners,107,0.4
+131,Dae-Ho Lee,mariners,317,0.3
+132,Shawn O'Malley,mariners,232,0.2
+133,Mike Freeman,mariners,13,0.2
+134,James Paxton,mariners,4,0.0
+135,Chris Taylor,mariners,3,0.0
+136,Wade Miley,mariners,7,0.0
+137,Nate Karns,mariners,1,0.0
+138,Edwin Diaz,mariners,1,0.0
+139,Joel Peralta,mariners,1,0.0
+140,Hisashi Iwakuma,mariners,3,0.0
+141,Stefen Romero,mariners,19,-0.1
+142,Felix Hernandez,mariners,8,-0.1
+143,Daniel Robertson,mariners,21,-0.1
+144,Ben Gamel,mariners,47,-0.2
+145,Steve Clevenger,mariners,76,-0.2
+146,Dan Vogelbach,mariners,13,-0.2
+147,Adam Lind,mariners,430,-0.6
+148,Luis Sardinas,mariners,77,-0.7
+149,Ketel Marte,mariners,466,-0.7
+150,Mookie Betts,red sox,730,7.8
+151,Dustin Pedroia,red sox,698,5.2
+152,Jackie Bradley Jr.,red sox,636,4.8
+153,Xander Bogaerts,red sox,719,4.7
+154,David Ortiz,red sox,626,4.4
+155,Hanley Ramirez,red sox,620,2.6
+156,Sandy Leon,red sox,283,2.5
+157,Travis Shaw,red sox,530,1.5
+158,Chris Young,red sox,227,1.1
+159,Andrew Benintendi,red sox,118,0.6
+160,Blake Swihart,red sox,74,0.4
+161,Josh Rutledge,red sox,56,0.2
+162,Brock Holt,red sox,324,0.2
+163,Rusney Castillo,red sox,8,0.0
+164,Clay Buchholz,red sox,3,0.0
+165,Rick Porcello,red sox,5,0.0
+166,Yoan Moncada,red sox,20,0.0
+167,Mike Miller,red sox,1,0.0
+168,Drew Pomeranz,red sox,2,0.0
+169,Eduardo Rodriguez,red sox,2,0.0
+170,Steven Wright,red sox,4,-0.1
+171,Christian Vazquez,red sox,184,-0.1
+172,David Price,red sox,11,-0.1
+173,Bryan Holaday,red sox,35,-0.1
+174,Ryan LaMarre,red sox,6,-0.1
+175,Michael Martinez,red sox,7,-0.1
+176,Bryce Brentz,red sox,64,-0.2
+177,Marco Hernandez,red sox,56,-0.2
+178,Pablo Sandoval,red sox,7,-0.2
+179,Deven Marrero,red sox,14,-0.2
+180,Jarrod Dyson,royals,337,3.1
+181,Lorenzo Cain,royals,434,2.4
+182,Salvador Perez,royals,546,2.2
+183,Whit Merrifield,royals,332,1.7
+184,Paulo Orlando,royals,484,1.6
+185,Alex Gordon,royals,506,1.2
+186,Kendrys Morales,royals,618,0.7
+187,Mike Moustakas,royals,113,0.7
+188,Drew Butera,royals,133,0.7
+189,Brett Eibner,royals,85,0.5
+190,Alcides Escobar,royals,682,0.4
+191,Terrance Gore,royals,3,0.2
+192,Cheslor Cuthbert,royals,510,0.2
+193,Christian Colon,royals,161,0.0
+194,Yordano Ventura,royals,3,0.0
+195,Danny Duffy,royals,6,0.0
+196,Omar Infante,royals,149,0.0
+197,Chris Young,royals,1,0.0
+198,Ian Kennedy,royals,3,0.0
+199,Dillon Gee,royals,3,0.0
+200,Edinson Volquez,royals,5,-0.1
+201,Hunter Dozier,royals,21,-0.1
+202,Tony Cruz,royals,5,-0.1
+203,Daniel Nava,royals,12,-0.1
+204,Reymond Fuentes,royals,44,-0.2
+205,Eric Hosmer,royals,667,-0.2
+206,Raul Mondesi,royals,149,-0.5
+207,Billy Burns,royals,40,-0.5
+208,Evan Longoria,rays,685,4.5
+209,Kevin Kiermaier,rays,414,3.8
+210,Logan Forsythe,rays,567,2.8
+211,Brad Miller,rays,601,2.0
+212,Steve Pearce,rays,232,1.9
+213,Corey Dickerson,rays,548,1.5
+214,Steven Souza Jr.,rays,468,1.3
+215,Tim Beckham,rays,215,1.1
+216,Logan Morrison,rays,398,0.5
+217,Brandon Guyer,rays,249,0.3
+218,Luke Maile,rays,126,0.2
+219,Oswaldo Arcia,rays,61,0.1
+220,Richie Shaffer,rays,54,0.1
+221,Bobby Wilson,rays,95,0.1
+222,Matt Duffy,rays,80,0.1
+223,Matt Moore,rays,7,0.1
+224,Curt Casali,rays,256,0.1
+225,Jake Odorizzi,rays,4,0.0
+226,Blake Snell,rays,3,0.0
+227,Nick Franklin,rays,191,0.0
+228,Matt Andriese,rays,1,0.0
+229,Drew Smyly,rays,2,0.0
+230,Chris Archer,rays,8,0.0
+231,Juniel Querecuto,rays,11,-0.1
+232,Alexei Ramirez,rays,62,-0.3
+233,Taylor Motter,rays,93,-0.3
+234,Hank Conger,rays,137,-0.4
+235,Jaff Decker,rays,57,-0.4
+236,Desmond Jennings,rays,225,-0.4
+237,Mikie Mahtook,rays,196,-0.8
+238,Francisco Lindor,indians,684,6.3
+239,Jason Kipnis,indians,688,4.8
+240,Jose Ramirez,indians,618,4.8
+241,Carlos Santana,indians,688,3.7
+242,Tyler Naquin,indians,365,2.5
+243,Rajai Davis,indians,495,2.0
+244,Lonnie Chisenhall,indians,418,1.2
+245,Mike Napoli,indians,645,1.0
+246,Brandon Guyer,indians,96,0.8
+247,Marlon Byrd,indians,129,0.7
+248,Roberto Perez,indians,184,0.4
+249,Abraham Almonte,indians,194,0.4
+250,Juan Uribe,indians,259,0.2
+251,Josh Tomlin,indians,6,0.1
+252,Coco Crisp,indians,64,0.1
+253,Corey Kluber,indians,6,0.1
+254,Mike Clevinger,indians,2,0.0
+255,Michael Brantley,indians,43,0.0
+256,Erik Gonzalez,indians,17,-0.1
+257,Danny Salazar,indians,5,-0.1
+258,Michael Martinez,indians,99,-0.1
+259,Trevor Bauer,indians,6,-0.1
+260,Jesus Aguilar,indians,6,-0.1
+261,Adam Moore,indians,5,-0.1
+262,Collin Cowgill,indians,14,-0.2
+263,Chris Gimenez,indians,155,-0.5
+264,Yan Gomes,indians,264,-0.6
+265,Adrian Beltre,rangers,640,6.1
+266,Ian Desmond,rangers,677,3.3
+267,Elvis Andrus,rangers,568,2.1
+268,Rougned Odor,rangers,632,2.0
+269,Jonathan Lucroy,rangers,168,1.7
+270,Carlos Gomez,rangers,130,1.2
+271,Nomar Mazara,rangers,568,1.2
+272,Robinson Chirinos,rangers,170,0.8
+273,Bryan Holaday,rangers,94,0.5
+274,Ryan Rua,rangers,269,0.5
+275,Shin-Soo Choo,rangers,210,0.5
+276,Brett Nicholas,rangers,45,0.4
+277,Mitch Moreland,rangers,503,0.4
+278,Jurickson Profar,rangers,307,0.4
+279,Delino DeShields,rangers,203,0.2
+280,Yu Darvish,rangers,3,0.1
+281,Carlos Beltran,rangers,206,0.1
+282,Bobby Wilson,rangers,141,0.1
+283,Derek Holland,rangers,2,0.0
+284,Martin Perez,rangers,4,0.0
+285,Drew Stubbs,rangers,25,0.0
+286,Justin Ruggiano,rangers,4,0.0
+287,Shawn Tolleson,rangers,1,0.0
+288,A.J. Griffin,rangers,2,0.0
+289,Nick Martinez,rangers,2,0.0
+290,Cole Hamels,rangers,8,0.0
+291,Jared Hoying,rangers,49,-0.2
+292,Hanser Alberto,rangers,58,-0.2
+293,Joey Gallo,rangers,30,-0.4
+294,Prince Fielder,rangers,370,-1.8
+295,Brian Dozier,twins,691,5.9
+296,Byron Buxton,twins,331,1.7
+297,Eduardo Nunez,twins,396,1.7
+298,Miguel Sano,twins,495,1.3
+299,Max Kepler,twins,447,1.1
+300,Joe Mauer,twins,576,1.0
+301,Eddie Rosario,twins,354,0.9
+302,Robbie Grossman,twins,389,0.7
+303,Kennys Vargas,twins,177,0.6
+304,Kurt Suzuki,twins,373,0.6
+305,Juan Centeno,twins,192,0.4
+306,Tommy Milone,twins,2,0.1
+307,Jose Berrios,twins,1,0.1
+308,Byung-ho Park,twins,244,0.1
+309,Ricky Nolasco,twins,3,0.0
+310,Fernando Abad,twins,1,0.0
+311,Ryan O'Rourke,twins,1,0.0
+312,Phil Hughes,twins,2,0.0
+313,Michael Tonkin,twins,2,0.0
+314,Tyler Duffey,twins,2,0.0
+315,Kyle Gibson,twins,8,0.0
+316,Logan Schafer,twins,74,0.0
+317,Ervin Santana,twins,6,-0.1
+318,Jorge Polanco,twins,270,-0.1
+319,Darin Mastroianni,twins,11,-0.1
+320,James Beresford,twins,24,-0.1
+321,Trevor Plouffe,twins,344,-0.4
+322,John Ryan Murphy,twins,90,-0.5
+323,Oswaldo Arcia,twins,114,-0.5
+324,Eduardo Escobar,twins,377,-0.6
+325,Ryan Braun,brewers,564,3.2
+326,Jonathan Villar,brewers,679,3.0
+327,Jonathan Lucroy,brewers,376,2.9
+328,Keon Broxton,brewers,244,2.1
+329,Aaron Hill,brewers,292,1.3
+330,Hernan Perez,brewers,430,1.2
+331,Kirk Nieuwenhuis,brewers,392,1.0
+332,Chris Carter,brewers,644,0.9
+333,Martin Maldonado,brewers,253,0.8
+334,Manny Pina,brewers,81,0.3
+335,Junior Guerra,brewers,43,0.2
+336,Tyler Cravy,brewers,5,0.1
+337,Andrew Susac,brewers,19,0.1
+338,Scooter Gennett,brewers,542,0.1
+339,Chris Capuano,brewers,1,0.0
+340,Michael Blazek,brewers,0,0.0
+341,Blaine Boyer,brewers,1,0.0
+342,Brent Suter,brewers,2,0.0
+343,Will Middlebrooks,brewers,31,0.0
+344,Taylor Jungmann,brewers,8,0.0
+345,Jhan Marinez,brewers,3,0.0
+346,Wily Peralta,brewers,41,0.0
+347,Josmil Pinto,brewers,6,-0.1
+348,Michael Reed,brewers,24,-0.1
+349,Domingo Santana,brewers,281,-0.1
+350,Matt Garza,brewers,33,-0.2
+351,Andy Wilkins,brewers,27,-0.2
+352,Orlando Arcia,brewers,216,-0.2
+353,Chase Anderson,brewers,52,-0.2
+354,Colin Walsh,brewers,63,-0.3
+355,Adam Eaton,white sox,706,6.0
+356,Tim Anderson,white sox,431,2.4
+357,Todd Frazier,white sox,666,2.4
+358,Jose Abreu,white sox,695,1.6
+359,Melky Cabrera,white sox,646,1.6
+360,Tyler Saladino,white sox,319,1.2
+361,Alex Avila,white sox,209,1.1
+362,Brett Lawrie,white sox,384,0.9
+363,Avisail Garcia,white sox,453,0.5
+364,Omar Narvaez,white sox,117,0.2
+365,Anthony Ranaudo,white sox,3,0.1
+366,Matt Albers,white sox,1,0.1
+367,Jason Coats,white sox,58,0.0
+368,Charlie Tilson,white sox,2,0.0
+369,James Shields,white sox,4,0.0
+370,Justin Morneau,white sox,218,0.0
+371,Matt Davidson,white sox,2,0.0
+372,Chris Sale,white sox,6,0.0
+373,Miguel Gonzalez,white sox,1,0.0
+374,Mat Latos,white sox,2,0.0
+375,Jose Quintana,white sox,2,0.0
+376,Hector Sanchez,white sox,8,0.0
+377,Carlos Rodon,white sox,3,0.0
+378,Leury Garcia,white sox,50,0.0
+379,Jimmy Rollins,white sox,166,0.0
+380,Austin Jackson,white sox,203,-0.1
+381,Kevan Smith,white sox,16,-0.2
+382,Dioner Navarro,white sox,298,-0.2
+383,Carlos Sanchez,white sox,163,-0.3
+384,Jerry Sands,white sox,58,-0.4
+385,Manny Machado,orioles,696,6.5
+386,Chris Davis,orioles,665,2.7
+387,J.J. Hardy,orioles,438,2.3
+388,Mark Trumbo,orioles,667,2.2
+389,Jonathan Schoop,orioles,647,2.0
+390,Matt Wieters,orioles,464,1.7
+391,Adam Jones,orioles,672,1.4
+392,Pedro Alvarez,orioles,376,1.1
+393,Hyun Soo Kim,orioles,346,0.9
+394,Michael Bourn,orioles,55,0.5
+395,Trey Mancini,orioles,15,0.3
+396,Yovani Gallardo,orioles,6,0.2
+397,Steve Pearce,orioles,70,0.1
+398,Dariel Alvarez,orioles,4,0.0
+399,Wade Miley,orioles,5,0.0
+400,Kevin Gausman,orioles,3,0.0
+401,Ryan Flaherty,orioles,176,0.0
+402,Paul Janish,orioles,35,0.0
+403,Oliver Drake,orioles,1,0.0
+404,Donnie Hart,orioles,1,0.0
+405,Mychal Givens,orioles,2,0.0
+406,Chris Tillman,orioles,3,0.0
+407,Dylan Bundy,orioles,3,0.0
+408,Ubaldo Jimenez,orioles,4,-0.1
+409,Francisco Pena,orioles,43,-0.1
+410,Julio Borbon,orioles,15,-0.2
+411,Drew Stubbs,orioles,27,-0.2
+412,Nolan Reimold,orioles,227,-0.4
+413,Joey Rickard,orioles,282,-0.7
+414,Caleb Joseph,orioles,141,-0.9
+415,Mike Trout,angels,681,9.4
+416,Kole Calhoun,angels,672,4.0
+417,Andrelton Simmons,angels,483,3.1
+418,C.J. Cron,angels,445,1.7
+419,Yunel Escobar,angels,567,1.6
+420,Jefry Marte,angels,284,1.5
+421,Albert Pujols,angels,650,0.9
+422,Jett Bandy,angels,231,0.7
+423,Geovany Soto,angels,86,0.4
+424,Johnny Giavotella,angels,367,0.1
+425,Nick Buss,angels,90,0.1
+426,Juan Graterol,angels,15,0.1
+427,Jhoulys Chacin,angels,2,0.0
+428,Carlos Perez,angels,291,0.0
+429,Hector Santiago,angels,3,0.0
+430,Ricky Nolasco,angels,2,0.0
+431,Jose Alvarez,angels,1,0.0
+432,Shane Robinson,angels,111,0.0
+433,Matt Shoemaker,angels,2,0.0
+434,Nick Tropeano,angels,2,0.0
+435,Todd Cunningham,angels,29,-0.1
+436,Brendan Ryan,angels,14,-0.1
+437,Jered Weaver,angels,9,-0.1
+438,Craig Gentry,angels,39,-0.2
+439,Gregorio Petit,angels,223,-0.2
+440,Cliff Pennington,angels,188,-0.2
+441,Rafael Ortega,angels,202,-0.2
+442,Daniel Nava,angels,136,-0.2
+443,Ji-Man Choi,angels,129,-0.3
+444,Kaleb Cowart,angels,87,-0.3
+445,Cesar Hernandez,phillies,622,4.4
+446,Odubel Herrera,phillies,656,3.8
+447,Freddy Galvis,phillies,624,2.4
+448,Cameron Rupp,phillies,419,1.6
+449,Maikel Franco,phillies,630,1.4
+450,Carlos Ruiz,phillies,193,1.3
+451,Tommy Joseph,phillies,347,0.9
+452,Peter Bourjos,phillies,383,0.4
+453,Roman Quinn,phillies,69,0.4
+454,Zach Eflin,phillies,23,0.2
+455,Jeremy Hellickson,phillies,66,0.2
+456,A.J. Ellis,phillies,35,0.2
+457,Vince Velasquez,phillies,44,0.2
+458,Andres Blanco,phillies,209,0.1
+459,Edubray Ramos,phillies,1,0.0
+460,Jake Thompson,phillies,17,0.0
+461,Charlie Morton,phillies,7,0.0
+462,Luis Garcia,phillies,1,0.0
+463,Frank Herrmann,phillies,1,0.0
+464,Colton Murray,phillies,1,0.0
+465,Severino Gonzalez,phillies,1,0.0
+466,Brett Oberholtzer,phillies,7,0.0
+467,Phil Klein,phillies,2,0.0
+468,Jerad Eickhoff,phillies,62,-0.1
+469,Alec Asher,phillies,11,-0.1
+470,Jimmy Paredes,phillies,150,-0.1
+471,Aaron Nola,phillies,35,-0.1
+472,Adam Morgan,phillies,36,-0.1
+473,Taylor Featherston,phillies,28,-0.2
+474,David Lough,phillies,79,-0.2
+475,Brandon Crawford,giants,623,5.8
+476,Brandon Belt,giants,655,4.4
+477,Buster Posey,giants,614,4.0
+478,Joe Panik,giants,526,2.1
+479,Angel Pagan,giants,543,2.1
+480,Hunter Pence,giants,442,2.1
+481,Denard Span,giants,637,1.4
+482,Matt Duffy,giants,286,1.2
+483,Conor Gillaspie,giants,205,1.1
+484,Eduardo Nunez,giants,199,1.0
+485,Madison Bumgarner,giants,97,1.0
+486,Kelby Tomlinson,giants,120,0.8
+487,Mac Williamson,giants,127,0.5
+488,Ramiro Pena,giants,91,0.2
+489,Jarrett Parker,giants,151,0.2
+490,Gorkys Hernandez,giants,57,0.2
+491,Trevor Brown,giants,184,0.2
+492,Ehire Adrianza,giants,71,0.2
+493,Jake Peavy,giants,31,0.1
+494,Jeff Samardzija,giants,69,0.1
+495,Albert Suarez,giants,24,0.1
+496,Ty Blach,giants,4,0.1
+497,Cory Gearrin,giants,1,0.1
+498,Ruben Tejada,giants,38,0.1
+499,Javier Lopez,giants,1,0.0
+500,Vin Mazzaro,giants,1,0.0
+501,Mike Broadway,giants,1,0.0
+502,Derek Law,giants,1,0.0
+503,Steven Okert,giants,1,0.0
+504,Chris Stratton,giants,1,0.0
+505,Corey Seager,dodgers,687,7.5
+506,Justin Turner,dodgers,622,5.6
+507,Joc Pederson,dodgers,476,3.6
+508,Yasmani Grandal,dodgers,457,2.9
+509,Chase Utley,dodgers,565,2.0
+510,Andrew Toles,dodgers,115,1.6
+511,Adrian Gonzalez,dodgers,633,1.3
+512,Yasiel Puig,dodgers,368,1.0
+513,Howie Kendrick,dodgers,543,0.9
+514,Trayce Thompson,dodgers,262,0.4
+515,Carlos Ruiz,dodgers,40,0.3
+516,KikÃ© Hernandez,dodgers,244,0.2
+517,Alex Wood,dodgers,19,0.2
+518,Charlie Culberson,dodgers,68,0.1
+519,Bud Norris,dodgers,16,0.1
+520,Clayton Kershaw,dodgers,50,0.1
+521,Rob Segedin,dodgers,83,0.1
+522,Chris Hatcher,dodgers,3,0.0
+523,Carlos Frias,dodgers,1,0.0
+524,Josh Fields,dodgers,1,0.0
+525,Pedro Baez,dodgers,1,0.0
+526,Grant Dayton,dodgers,1,0.0
+527,Nick Tepesch,dodgers,1,0.0
+528,Hyun-Jin Ryu,dodgers,1,0.0
+529,Josh Reddick,dodgers,167,0.0
+530,Kenta Maeda,dodgers,66,0.0
+531,J.P. Howell,dodgers,2,0.0
+532,Brett Anderson,dodgers,3,0.0
+533,Jose De Leon,dodgers,4,0.0
+534,Brock Stewart,dodgers,10,-0.1
+535,Jose Altuve,astros,717,6.7
+536,Carlos Correa,astros,660,4.9
+537,George Springer,astros,744,4.5
+538,Evan Gattis,astros,499,2.6
+539,Luis Valbuena,astros,342,2.0
+540,Colby Rasmus,astros,417,1.4
+541,Jason Castro,astros,376,1.1
+542,Alex Bregman,astros,217,1.0
+543,Marwin Gonzalez,astros,518,0.3
+544,Yulieski Gurriel,astros,137,0.1
+545,Lance McCullers,astros,3,0.0
+546,Joe Musgrove,astros,1,0.0
+547,Scott Feldman,astros,2,0.0
+548,Dallas Keuchel,astros,2,0.0
+549,Matt Duffy,astros,3,-0.1
+550,Doug Fister,astros,7,-0.1
+551,Collin McHugh,astros,8,-0.1
+552,Jake Marisnick,astros,311,-0.1
+553,Danny Worth,astros,40,-0.1
+554,Max Stassi,astros,13,-0.2
+555,Teoscar Hernandez,astros,112,-0.3
+556,Colin Moran,astros,25,-0.3
+557,Erik Kratz,astros,30,-0.3
+558,Tyler White,astros,276,-0.4
+559,Carlos Gomez,astros,323,-0.4
+560,Tony Kemp,astros,136,-0.6
+561,Preston Tucker,astros,144,-0.8
+562,A.J. Reed,astros,141,-0.9
+563,Matt Carpenter,cardinals,566,3.2
+564,Stephen Piscotty,cardinals,649,2.8
+565,Aledmys Diaz,cardinals,460,2.7
+566,Yadier Molina,cardinals,581,2.4
+567,Jedd Gyorko,cardinals,438,2.3
+568,Randal Grichuk,cardinals,478,2.2
+569,Greg Garcia,cardinals,257,1.9
+570,Brandon Moss,cardinals,464,1.4
+571,Kolten Wong,cardinals,361,1.2
+572,Adam Wainwright,cardinals,69,0.9
+573,Matt Holliday,cardinals,426,0.7
+574,Matt Adams,cardinals,327,0.6
+575,Eric Fryer,cardinals,41,0.5
+576,Carlos Martinez,cardinals,65,0.4
+577,Jose Martinez,cardinals,18,0.2
+578,Luke Weaver,cardinals,13,0.2
+579,Jeremy Hazelbaker,cardinals,224,0.1
+580,Jaime Garcia,cardinals,51,0.1
+581,Tommy Pham,cardinals,183,0.1
+582,Mike Leake,cardinals,55,0.1
+583,Dean Kiekhefer,cardinals,1,0.0
+584,Trevor Rosenthal,cardinals,1,0.0
+585,Seth Maness,cardinals,1,0.0
+586,Jerome Williams,cardinals,2,0.0
+587,Matt Bowman,cardinals,2,0.0
+588,Seung Hwan Oh,cardinals,2,0.0
+589,Michael McKenry,cardinals,2,0.0
+590,Tyler Lyons,cardinals,4,-0.1
+591,Carson Kelly,cardinals,14,-0.1
+592,Alex Reyes,cardinals,15,-0.1
+593,Kris Bryant,cubs,699,8.4
+594,Anthony Rizzo,cubs,676,5.2
+595,Dexter Fowler,cubs,551,4.7
+596,Ben Zobrist,cubs,631,4.0
+597,Addison Russell,cubs,598,3.9
+598,Javier Baez,cubs,450,2.7
+599,Willson Contreras,cubs,283,2.2
+600,David Ross,cubs,205,1.7
+601,Jason Heyward,cubs,592,1.6
+602,Chris Coghlan,cubs,128,1.0
+603,Jake Arrieta,cubs,70,0.9
+604,Albert Almora,cubs,117,0.9
+605,Matt Szczur,cubs,200,0.7
+606,Jorge Soler,cubs,264,0.7
+607,Tommy La Stella,cubs,169,0.6
+608,Jason Hammel,cubs,69,0.5
+609,Munenori Kawasaki,cubs,26,0.2
+610,Ryan Kalish,cubs,10,0.1
+611,Jon Lester,cubs,75,0.0
+612,Trevor Cahill,cubs,11,0.0
+613,Joel Peralta,cubs,1,0.0
+614,Hector Rondon,cubs,1,0.0
+615,Clayton Richard,cubs,1,0.0
+616,Jake Buchanan,cubs,1,0.0
+617,Carl Edwards Jr.,cubs,1,0.0
+618,Pedro Strop,cubs,1,0.0
+619,Rob Zastryzny,cubs,3,0.0
+620,Spencer Patton,cubs,2,0.0
+621,Adam Warren,cubs,4,-0.1
+622,Miguel Montero,cubs,284,-0.1
+623,Jean Segura,diamondbacks,694,5.0
+624,Paul Goldschmidt,diamondbacks,705,4.8
+625,Jake Lamb,diamondbacks,594,2.5
+626,Welington Castillo,diamondbacks,457,1.7
+627,Chris Herrmann,diamondbacks,166,1.5
+628,Patrick Corbin,diamondbacks,53,0.6
+629,Mitch Haniger,diamondbacks,123,0.6
+630,Chris Owings,diamondbacks,466,0.6
+631,Phil Gosselin,diamondbacks,240,0.5
+632,A.J. Pollock,diamondbacks,46,0.4
+633,Zack Greinke,diamondbacks,60,0.3
+634,David Peralta,diamondbacks,183,0.3
+635,Robbie Ray,diamondbacks,60,0.2
+636,Nick Ahmed,diamondbacks,308,0.1
+637,Kyle Jensen,diamondbacks,34,0.1
+638,Rickie Weeks Jr.,diamondbacks,205,0.1
+639,Matt Koch,diamondbacks,6,0.0
+640,Oscar Hernandez,diamondbacks,11,0.0
+641,Matt Buschmann,diamondbacks,1,0.0
+642,Silvino Bracho,diamondbacks,1,0.0
+643,Randall Delgado,diamondbacks,2,0.0
+644,Edwin Escobar,diamondbacks,2,0.0
+645,Vicente Campos,diamondbacks,2,0.0
+646,Tyler Wagner,diamondbacks,2,0.0
+647,Braden Shipley,diamondbacks,27,-0.1
+648,Zack Godley,diamondbacks,19,-0.1
+649,Yasmany Tomas,diamondbacks,563,-0.1
+650,Michael Bourn,diamondbacks,358,-0.1
+651,Rubby de la Rosa,diamondbacks,17,-0.1
+652,Socrates Brito,diamondbacks,97,-0.2
+653,Christian Yelich,marlins,659,4.4
+654,J.T. Realmuto,marlins,545,3.5
+655,Martin Prado,marlins,658,3.2
+656,Marcell Ozuna,marlins,608,2.4
+657,Derek Dietrich,marlins,412,2.0
+658,Giancarlo Stanton,marlins,470,1.7
+659,Ichiro Suzuki,marlins,365,1.4
+660,Justin Bour,marlins,321,1.3
+661,Dee Gordon,marlins,345,0.9
+662,Jose Fernandez,marlins,61,0.5
+663,Adeiny Hechavarria,marlins,547,0.4
+664,Yefri Perez,marlins,3,0.2
+665,Jeff Mathis,marlins,132,0.1
+666,Miguel Rojas,marlins,214,0.1
+667,Jeff Francoeur,marlins,55,0.1
+668,Andrew Cashner,marlins,18,0.1
+669,Cody Ege,marlins,1,0.1
+670,Jose Urena,marlins,22,0.1
+671,Jake Esch,marlins,5,0.0
+672,David Phelps,marlins,13,0.0
+673,Nick Wittgren,marlins,0,0.0
+674,Jarred Cosart,marlins,7,0.0
+675,Tomas Telis,marlins,13,0.0
+676,Bryan Morris,marlins,1,0.0
+677,Kendry Flores,marlins,1,0.0
+678,Colin Rea,marlins,1,0.0
+679,Kyle Barraclough,marlins,1,0.0
+680,Brian Ellington,marlins,1,0.0
+681,Paul Clemens,marlins,2,0.0
+682,Robert Andino,marlins,24,0.0
+683,Freddie Freeman,braves,693,6.1
+684,Ender Inciarte,braves,578,3.6
+685,Nick Markakis,braves,684,1.1
+686,Tyler Flowers,braves,325,1.1
+687,Adonis Garcia,braves,563,0.9
+688,Anthony Recker,braves,112,0.8
+689,Dansby Swanson,braves,145,0.8
+690,Matt Kemp,braves,241,0.5
+691,Mallex Smith,braves,215,0.5
+692,Bud Norris,braves,22,0.3
+693,Chase d'Arnaud,braves,262,0.3
+694,Julio Teheran,braves,61,0.2
+695,Jeff Francoeur,braves,276,0.2
+696,Rio Ruiz,braves,7,0.1
+697,Jhoulys Chacin,braves,8,0.0
+698,Rob Whalen,braves,11,0.0
+699,Joel De La Cruz,braves,18,0.0
+700,Jace Peterson,braves,408,0.0
+701,Brandon Snyder,braves,47,0.0
+702,Jim Johnson,braves,1,0.0
+703,Ian Krol,braves,1,0.0
+704,Mike Foltynewicz,braves,42,0.0
+705,Drew Stubbs,braves,42,0.0
+706,Casey Kelly,braves,3,0.0
+707,Roberto Hernandez,braves,4,-0.1
+708,Matt Wisler,braves,53,-0.1
+709,Matt Tuiasosopo,braves,3,-0.1
+710,Ryan Weber,braves,6,-0.1
+711,Josh Collmenter,braves,7,-0.1
+712,Lucas Harrell,braves,8,-0.1
+713,Ian Kinsler,tigers,679,5.8
+714,Miguel Cabrera,tigers,679,4.9
+715,Jose Iglesias,tigers,513,2.1
+716,Cameron Maybin,tigers,391,2.0
+717,Nick Castellanos,tigers,447,1.9
+718,J.D. Martinez,tigers,517,1.8
+719,Justin Upton,tigers,626,1.4
+720,Victor Martinez,tigers,610,0.9
+721,James McCann,tigers,373,0.8
+722,Andrew Romine,tigers,194,0.6
+723,Dixon Machado,tigers,13,0.2
+724,Jarrod Saltalamacchia,tigers,292,0.1
+725,Tyler Collins,tigers,151,0.1
+726,Erick Aybar,tigers,91,0.1
+727,Anthony Gose,tigers,101,0.1
+728,John Hicks,tigers,2,0.1
+729,Jordan Zimmermann,tigers,5,0.0
+730,Daniel Norris,tigers,3,0.0
+731,Alex Presley,tigers,5,0.0
+732,Justin Verlander,tigers,5,0.0
+733,Shane Greene,tigers,2,0.0
+734,Michael Fulmer,tigers,2,0.0
+735,JaCoby Jones,tigers,28,-0.1
+736,Anibal Sanchez,tigers,6,-0.1
+737,Bobby Wilson,tigers,15,-0.1
+738,Steven Moya,tigers,100,-0.4
+739,Casey McGehee,tigers,96,-0.5
+740,Mike Aviles,tigers,181,-1.4
+741,Josh Donaldson,blue jays,700,7.6
+742,Edwin Encarnacion,blue jays,702,3.9
+743,Kevin Pillar,blue jays,584,3.2
+744,Troy Tulowitzki,blue jays,544,2.8
+745,Devon Travis,blue jays,432,2.5
+746,Russell Martin,blue jays,535,1.9
+747,Darwin Barney,blue jays,306,1.5
+748,Michael Saunders,blue jays,558,1.4
+749,Jose Bautista,blue jays,517,1.4
+750,Ezequiel Carrera,blue jays,310,0.7
+751,J.A. Happ,blue jays,10,0.1
+752,Andrew Burns,blue jays,7,0.0
+753,Jimmy Paredes,blue jays,17,0.0
+754,R.A. Dickey,blue jays,1,0.0
+755,Gavin Floyd,blue jays,1,0.0
+756,Dalton Pompey,blue jays,2,0.0
+757,Marco Estrada,blue jays,5,-0.1
+758,Aaron Sanchez,blue jays,10,-0.1
+759,Marcus Stroman,blue jays,6,-0.1
+760,Junior Lake,blue jays,39,-0.1
+761,Justin Smoak,blue jays,341,-0.1
+762,Matt Dominguez,blue jays,12,-0.2
+763,Dioner Navarro,blue jays,36,-0.2
+764,Melvin Upton Jr.,blue jays,165,-0.3
+765,Chris Colabello,blue jays,32,-0.5
+766,Josh Thole,blue jays,136,-0.5
+767,Darrell Ceciliani,blue jays,29,-0.5
+768,Ryan Goins,blue jays,196,-1.0
+769,Khris Davis,athletics,610,2.5
+770,Marcus Semien,athletics,621,2.5
+771,Stephen Vogt,athletics,532,1.8
+772,Josh Reddick,athletics,272,1.2
+773,Ryon Healy,athletics,283,1.1
+774,Danny Valencia,athletics,517,1.1
+775,Bruce Maxwell III,athletics,101,0.3
+776,Josh Phegley,athletics,86,0.2
+777,Joey Wendle,athletics,104,0.1
+778,Max Muncy,athletics,133,0.0
+779,Ryan Madson,athletics,1,0.0
+780,Jesse Hahn,athletics,1,0.0
+781,Andrew Lambo,athletics,1,0.0
+782,Ross Detwiler,athletics,2,0.0
+783,Zach Neal,athletics,2,0.0
+784,Andrew Triggs,athletics,2,0.0
+785,Sean Manaea,athletics,2,0.0
+786,Billy Burns,athletics,292,0.0
+787,Sonny Gray,athletics,3,0.0
+788,Kendall Graveman,athletics,5,-0.1
+789,Daniel Mengden,athletics,6,-0.1
+790,Matt Olson,athletics,28,-0.2
+791,Matt McBride,athletics,44,-0.2
+792,Arismendy Alcantara,athletics,19,-0.2
+793,Jake Smolinski,athletics,319,-0.3
+794,Chad Pinder,athletics,55,-0.3
+795,Brett Eibner,athletics,123,-0.3
+796,Yonder Alonso,athletics,532,-0.3
+797,Renato Nunez,athletics,15,-0.3
+798,Billy Butler,athletics,242,-0.4
+799,Gary Sanchez,yankees,229,3.2
+800,Didi Gregorius,yankees,597,2.7
+801,Chase Headley,yankees,529,2.6
+802,Brett Gardner,yankees,634,2.4
+803,Carlos Beltran,yankees,387,2.2
+804,Jacoby Ellsbury,yankees,626,2.0
+805,Brian McCann,yankees,492,1.3
+806,Starlin Castro,yankees,610,1.1
+807,Ronald Torreyes,yankees,168,0.5
+808,Chris Parmelee,yankees,8,0.3
+809,Mason Williams,yankees,29,0.2
+810,Donovan Solano,yankees,23,0.1
+811,Billy Butler,yankees,32,0.1
+812,Tyler Austin,yankees,90,0.0
+813,Michael Pineda,yankees,1,0.0
+814,Nathan Eovaldi,yankees,7,0.0
+815,CC Sabathia,yankees,2,0.0
+816,Masahiro Tanaka,yankees,2,0.0
+817,Eric Young,yankees,1,0.0
+818,Ivan Nova,yankees,4,-0.1
+819,Chad Green,yankees,4,-0.1
+820,Austin Romine,yankees,176,-0.1
+821,Ike Davis,yankees,15,-0.1
+822,Ben Gamel,yankees,10,-0.1
+823,Aaron Hicks,yankees,361,-0.2
+824,Aaron Judge,yankees,95,-0.3
+825,Rob Refsnyder,yankees,175,-0.3
+826,Dustin Ackley,yankees,70,-0.3
+827,Mark Teixeira,yankees,438,-1.1
+828,Alex Rodriguez,yankees,243,-1.2
+829,Daniel Murphy,nationals,582,5.5
+830,Anthony Rendon,nationals,647,4.7
+831,Bryce Harper,nationals,627,3.5
+832,Wilson Ramos,nationals,523,3.5
+833,Trea Turner,nationals,324,3.3
+834,Danny Espinosa,nationals,601,1.7
+835,Jayson Werth,nationals,606,1.1
+836,Stephen Drew,nationals,165,0.7
+837,Pedro Severino,nationals,34,0.7
+838,Wilmer Difo,nationals,66,0.5
+839,Joe Ross,nationals,44,0.4
+840,Michael Taylor,nationals,237,0.4
+841,Chris Heisey,nationals,155,0.3
+842,Jose Lobaton,nationals,114,0.3
+843,Stephen Strasburg,nationals,57,0.3
+844,Max Scherzer,nationals,85,0.2
+845,Oliver Perez,nationals,3,0.1
+846,Mat Latos,nationals,3,0.1
+847,Matt den Dekker,nationals,39,0.1
+848,Spencer Kieboom,nationals,1,0.1
+849,Lucas Giolito,nationals,6,0.0
+850,Tanner Roark,nationals,75,0.0
+851,Yusmeiro Petit,nationals,7,0.0
+852,Shawn Kelley,nationals,1,0.0
+853,Felipe Rivero,nationals,1,0.0
+854,Sammy Solis,nationals,3,0.0
+855,Matt Belisle,nationals,4,-0.1
+856,Brian Goodwin,nationals,44,-0.1
+857,Gio Gonzalez,nationals,59,-0.1
+858,Reynaldo Lopez,nationals,14,-0.1
+859,Wil Myers,padres,676,3.8
+860,Yangervis Solarte,padres,443,2.8
+861,Ryan Schimpf,padres,330,2.4
+862,Travis Jankowski,padres,383,2.1
+863,Adam Rosales,padres,248,2.0
+864,Melvin Upton Jr.,padres,374,1.4
+865,Jon Jay,padres,373,1.1
+866,Alex Dickerson,padres,285,0.6
+867,Hunter Renfroe,padres,36,0.6
+868,Luis Sardinas,padres,120,0.5
+869,Hector Sanchez,padres,46,0.4
+870,Edwin Jackson,padres,27,0.3
+871,Manuel Margot,padres,37,0.3
+872,Matt Kemp,padres,431,0.2
+873,Andrew Cashner,padres,22,0.1
+874,Cory Spangenberg,padres,53,0.1
+875,Jabari Blash,padres,84,0.1
+876,Drew Pomeranz,padres,35,0.1
+877,Luis Perdomo,padres,43,0.0
+878,James Shields,padres,19,0.0
+879,Tyson Ross,padres,1,0.0
+880,Colin Rea,padres,38,0.0
+881,Jemile Weeks,padres,57,0.0
+882,Christian Bethancourt,padres,204,0.0
+883,Jarred Cosart,padres,11,-0.1
+884,Carlos Villanueva,padres,5,-0.1
+885,Brad Hand,padres,5,-0.1
+886,Erik Johnson,padres,5,-0.1
+887,Robbie Erlin,padres,6,-0.1
+888,Carlos Asuaje,padres,25,-0.1
